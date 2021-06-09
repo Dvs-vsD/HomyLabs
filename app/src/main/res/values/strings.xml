@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">HomyLabs</string>
+    <string name="signup">Sign Up</string>
+    <string name="signin">Sign In</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="welcome_text1">👋Hello</string>
+    <string name="welcome2">   Login Now</string>
+    <string name="new_account">if you new hear / Create new account</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="login">Login</string>
+    <string name="if_you_new_here">If you new here /</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="are_you_new_here">Are you new here?</string>
+    <string name="if_you_have_an_account">If you have an account /</string>
+    <string name="user_name">User Name</string>
+
+    <string name="diabetes_related_tests">Diabetes Related Tests</string>
+    <string name="fever_related_tests">Fever Related Tests</string>
+    <string name="skin_related_tests">Skin Related Tests</string>
+    <string name="kidney_related_tests">Kidney Related Tests</string>
+    <string name="digestion_related_tests">Digestion Related Tests</string>
+    <string name="bone_related_tests">Bone Related Tests</string>
+
+    <string name="hba1c">HbA1c</string>
+    <string name="HbA1c_data">Known as Glycosylated Haemoglobin Blood</string>
+    <string name="ins">Insulin Fasting Blood</string>
+    <string name="ins_data">known as Insulin Fasting Blood</string>
+    <string name="fbs">Fasting Blood Sugar</string>
+    <string name="fbs_data">Known as Glucose Fasting Blood</string>
+    <string name="lp">lipid Profile</string>
+    <string name="lp_data">known as lipid Profile Blood</string>
+    <string name="rbs">Random Blood Sugar</string>
+    <string name="rbs_data">Known as Glucose Random Blood</string>
+    <string name="c_peptide">C Peptide Blood</string>
+    <string name="c_peptide_data">known as C Peptide Random Blood</string>
+    <string name="thyroid">Thyroid Profile(T3,T4,TSH)</string>
+    <string name="thyroid_data">Known as Thyroid Profile Total Blood</string>
+    <string name="ppbs">Post Prandial Blood Sugar</string>
+    <string name="ppbs_data">Known as Glocose Post Prandial Blood</string>
+    <string name="lft">Liver Function Test</string>
+    <string name="lft_data">Known as Liver Function Tests Blood</string>
+    <string name="cbc">Complete Blood Count</string>
+    <string name="cbc_data">Complete Blood Count Automated Blood</string>
+
+    <string name="beap">Blood Element Analysis Profile</string>
+    <string name="beap_data">known as Blood Element Analysis Profile Automated Blood</string>
+    <string name="vp">Vitamin Profile</string>
+    <string name="vp_data">known as Vitamin Profile Blood</string>
+    <string name="vd">Vitamin D</string>
+    <string name="vd_data">Known as Vitamin D Profile Blood</string>
+    <string name="vb12">Vitamin B12</string>
+    <string name="vb12_data">known as Vitamin B12 Conventional Blood</string>
+    <string name="tsh">Thyroid Stimulating Hormone</string>
+    <string name="tsh_data">Known as Thyroid Stimulating Hormone Blood</string>
+
+    <string name="cs">Creatinine Serum</string>
+    <string name="cs_data">Known as Creatinine Conventional Blood</string>
+    <string name="bun">Blood Urea Nitrogen</string>
+    <string name="bun_data">Known as Urea Nitrogen Blood</string>
+    <string name="mu">Microalbumin Urine</string>
+    <string name="mu_data">known as Microalbumin Random Urine</string>
+    <string name="ss">Sodium Serum</string>
+    <string name="ss_data">Known as Sodium Blood</string>
+    <string name="ps">Potassium Serum</string>
+    <string name="ps_data">Known as Potassium Serum</string>
+
+    <string name="ls">Lipase Serum</string>
+    <string name="ls_data">Known as Lipase Blood</string>
+    <string name="ttg">TTG IgA Test</string>
+    <string name="ttg_data">known as Tissue Transglutaminase Antibodies Iga Elisa Blood</string>
+    <string name="esr">Erythrocyte Sedimentation Rate</string>
+    <string name="esr_data">Known as Erythrocyte Sedimentation Rate Westergren Blood</string>
+    <string name="hpi">H Pylori IgG</string>
+    <string name="hpi_data">Known as Helicobacter pylori Antibodies Igg Elisa Blood</string>
+    <string name="as">Amylase Serum</string>
+    <string name="as_data">Known as Amylase Blood</string>
+    <string name="chs">Chloride Serum</string>
+    <string name="chs_data">Known as Chloride Blood</string>
+
+    <string name="dns1">Dengue NS1</string>
+    <string name="dns1_data">Known as Dengue NS1 Antigen Pcr Blood</string>
+    <string name="digg">Dengue IgG</string>
+    <string name="digg_data">Known as Dengue Antibodies Igg Elisa Blood</string>
+    <string name="digm">Dengue IgM</string>
+    <string name="digm_data">Known as Dengue Antibodies Igm Elisa Blood</string>
+    <string name="ma">Malarial Antigen</string>
+    <string name="ma_data">Known as Malarial Antigen Pcr Blood</string>
+    <string name="ta">Typhidot Antibodies</string>
+    <string name="ta_data">Known as Typhidot Antibodies Dot Elisa Blood</string>
+    <string name="Cigm">Chikungunya IgM</string>
+    <string name="Cigm_data">Known as Chikungunya Antibodies Igm Elisa Blood</string>
+
+    <string name="ph">Parathyroid Hormone</string>
+    <string name="ph_data">Known as Parathyroid Hormone Blood</string>
+    <string name="ap">Alkaline Phosphatase</string>
+    <string name="ap_data">Known as Alkaline Phosphatase Blood</string>
+    <string name="cals">Calcium Serum</string>
+    <string name="cals_data">Known as Calcium Ion Specific Electrode Potentiometric Method Blood</string>
+    <string name="mb">Magnesium Blood</string>
+    <string name="mb_data">Known as Magnesium Blood</string>
+    <string name="pb">Phosphorus Blood</string>
+    <string name="pb_data">Known as Phosphorus Automated Blood</string>
+    <string name="zinc">Zinc</string>
+    <string name="zinc_data">Known as Zinc Blood</string>
+    <string name="vd25">Vitamin D 25-OH</string>
+    <string name="vd25_data">Known as Vitamin D 25-OH Blood</string>
+
+    <string name="general_prep">No specific preparation is required for this test.</string>
+    <string name="gen_prep">This test is done after you have fasted (without eating) for a whole night or for 8 to 12 hours. Usually, the blood is drawn in the morning after an overnight fast.</string>
+    <string name="lp_prep">For this test,you may be asked to fast for at least 9–12 hours prior to the test.In youth with no risk factors like high blood pressure or diabetes, this test may be recommended without fasting.</string>
+    <string name="ppbs_prep">The individual undertaking the test should fast for 12 hours prior to the test and After the meal, the patient should not take any food before having the test. Take rest for two hours during the waiting period and do not work or strain yourself because exercise may sometimes increase the blood sugar levels. If you are pregnant then there is no need to fast.</string>
+    <string name="lft_prep">Since some foods and medicines may interfere with your test results, your doctor may ask you to fast for 10 to 12 hours prior to the test without taking food, drinks or medicines.</string>
+
+    <string name="beap_prep">Your doctor will give specific instructions depending on your condition on how to prepare for Blood Element Analysis Profile.</string>
+    <string name="gene_prep">No specific preparation is necessary for this test. However, if it is performed along with other blood tests, you may need to fast (not eat or drink) for several hours.</string>
+
+    <string name="ls_prep">Fasting of 8 hours is usually recommended before this test.</string>
+    <string name="ap_prep">You may have to fast for 10–12 hours without any intake of food and drinks before the test.</string>
+    <string name="zinc_prep">No specific preparation is required for this test. Sometimes you may ask to fast (not to eat or drink) for several hours because zinc levels can decrease after meals. However, follow all the instructions given by your healthcare provider.</string>
+
+    <string name="patient">Patient</string>
+    <string name="lab_owner">Lab Owner</string>
+    <string name="book_now">Book Now</string>
+    <string name="lab_technician_name">Name :</string>
+    <string name="certified_lab">Certified Lab</string>
+    <string name="free_home_sample_pickup_within_3km_radius">Free Home Sample Pickup within 3km radius</string>
+    <string name="lab_technician_details">Lab Technician Details</string>
+    <string name="selected_tests">Selected Tests</string>
+    <string name="add_more_tests">ADD MORE TESTS</string>
+    <string name="show_nearest_laboratories">Show Nearest Laboratories</string>
+    <string name="laboratories_near_you">Laboratories near you</string>
+    <string name="test_price">Price : ₹</string>
+    <string name="you_are_just_one_step_away">You are just one step away</string>
+    <string name="lab_technician">Lab Technician :</string>
+    <string name="my_bookings">My Bookings</string>
+    <string name="you_haven_t_get_any_test_bookings_yet">You have not got any test bookings yet</string>
+    <string name="patient_name">Patient Name :</string>
+    <string name="booked_tests">Booked Tests</string>
+    <string name="patient_order">Patient Order</string>
+    <string name="image">image</string>
+    <string name="patient_email">Patient Email :</string>
+    <string name="be_ready_we_are_on_the_way">Be Ready,We Are On The Way</string>
+    <string name="upload_report">Upload Report</string>
+    <string name="select_file">Select File</string>
+    <string name="file_title">file_title</string>
+    <string name="lab_name">Lab Name</string>
+    <string name="lab_address">Lab Address</string>
+    <string name="download_report">Download Report</string>
+    <string name="download">Download</string>
+    <string name="report_title">Report Title</string>
+    <string name="submit">Submit</string>
+
+    <string name="reportDefaultText">You do not have any report to download</string>
+    <string name="home">Home</string>
+    <string name="add_tests">Add Tests</string>
+    <string name="payment_status">Payment Status</string>
+    <string name="remainder">Remainder</string>
+    <string name="share">Share</string>
+    <string name="log_out">Log Out</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="order_completed">Order Completed</string>
+    <string name="priceSymbol">₹</string>
+    <string name="price">Price</string>
+    <string name="check_mark_all_the_tests_you_want_to_serve">Check Mark All the Tests You Want to Serve</string>
+    <string name="welcome">Welcome,</string>
+    <string name="total">Total : ₹</string>
+    <string name="place_order">Place Order</string>
+    <string name="available_tests">Available Tests</string>
+
+</resources>

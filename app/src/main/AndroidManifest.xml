@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.homylabs">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/homylabs_launcher_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HomyLabs"
+        tools:replace="android:allowBackup">
+        <activity android:name=".Patient.ReportDownloadingActivity" />
+        <activity android:name=".general.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LabAdmin.BookedDetailsAndReportUpload" />
+        <activity android:name=".Patient.MyBookingsActivity" />
+        <activity android:name=".Patient.NearestLaboratoryActivity" />
+        <activity android:name=".Patient.TestBookingActivity" />
+        <activity android:name=".LabAdmin.LabAdminCheckMarkTests" />
+        <activity android:name=".LabAdmin.MainActivityOfLabAdmin" />
+        <activity android:name=".Patient.TestDescription" />
+        <activity android:name=".Patient.BoneRelatedTests" />
+        <activity android:name=".Patient.FeverRelatedTests" />
+        <activity android:name=".Patient.DigestionRelatedTests" />
+        <activity android:name=".Patient.KidneyUrineTests" />
+        <activity android:name=".Patient.SkinRelatedTests" />
+        <activity android:name=".general.SignUp" />
+        <activity android:name=".Patient.DiabetesRelatedTests" />
+        <activity android:name=".general.SignIn" />
+        <activity android:name=".Patient.MainActivity" />
+    </application>
+
+</manifest>

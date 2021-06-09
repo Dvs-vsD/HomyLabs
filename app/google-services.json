@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18231128135",
+    "project_id": "homylabs",
+    "storage_bucket": "homylabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18231128135:android:bd5e2f822bbc6030370162",
+        "android_client_info": {
+          "package_name": "com.example.homylabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18231128135-pmi9fpk25q76am2kp622cf7ch989oq2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjXnqZfLwE3qasimm1X4en9yziJ0P0540"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18231128135-pmi9fpk25q76am2kp622cf7ch989oq2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
