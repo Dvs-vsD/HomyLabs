@@ -25,5 +25,5 @@ To simplify this tedious process, we made an application. Through our applicatio
 
 ### Lab Technician
 
-<img title="Clinical Laboratory acc Dashboard" src="https://user-images.githubusercontent.com/62606017/223907323-3cd36c26-e053-4973-9e52-0705f7ab4fab.jpg" width="30%"></img> <img title="Laboraroty account's test selection" src="https://user-images.githubusercontent.com/62606017/223907342-eb5336a4-db20-4401-b545-bb42b8d2991b.jpg" width="30%"></img> <img title="Test report upload" src="https://user-images.githubusercontent.com/62606017/223907382-40352b0e-cc11-43b3-8ed2-d6e7db8c40b5.jpg" width="30%"></img>
+<img title="Clinical Laboratory acc Dashboard" src="https://user-images.githubusercontent.com/62606017/223907323-3cd36c26-e053-4973-9e52-0705f7ab4fab.jpg" width="33%"></img> <img title="Laboraroty account's test selection" src="https://user-images.githubusercontent.com/62606017/223907342-eb5336a4-db20-4401-b545-bb42b8d2991b.jpg" width="33%"></img> <img title="Test report upload" src="https://user-images.githubusercontent.com/62606017/223907382-40352b0e-cc11-43b3-8ed2-d6e7db8c40b5.jpg" width="33%"></img>
 
